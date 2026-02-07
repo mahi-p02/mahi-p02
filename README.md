@@ -2,7 +2,7 @@
 <br>
 
  - 2nd Year CSE Student | Competitive Programmer
- - Currently learning **DSA with C++** and **Full Stack Web Development**
+ - Currently learning **Cloud Computing** and **Cyber Security** as a **Web Dev**
 <br>
 <br>
 
