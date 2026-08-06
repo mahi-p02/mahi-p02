@@ -95,9 +95,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAFAL-TIWARI&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAFAL-TIWARI&theme=radical" width="100%"/>
-</div>
 
 ---
 
