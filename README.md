@@ -2,7 +2,7 @@
 
 # 👋 Hey! It's Mahi Priyadarshi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Aspirant;Full+Stack+Developer;Attack+to+Protect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=34&duration=3000&pause=1000&color=FF85C2&center=true&vCenter=true&width=700&lines=Cyber+Security+Aspirant;Full+Stack+Developer;Attack+to+Protect!" alt="Typing SVG" />
 <br>
 <br>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZvMHVha294Y29pdTZnamhyeXV0a294NDB0NjRwdGkwbjU4NHl0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
