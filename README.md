@@ -100,7 +100,7 @@ I’m Mahi Priyadarshi, a Cybersecurity Aspirant, Bug Bounty Hunter, and web dev
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi-p02&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi-p02&theme=react-dark&bg_color=20232a&hide_border=true&custom_title=Mahi's%20GitHub%20Activity" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
