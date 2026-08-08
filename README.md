@@ -92,15 +92,15 @@ I’m Mahi Priyadarshi, a Cybersecurity Aspirant, Bug Bounty Hunter, and web dev
 
 
 ## 📊 GitHub Analytics
- 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mahi-p02&theme=radical&hide_border=true&background=20232a" height="180" alt="GitHub Streak" />
 </div>
-<div align="center">
- <img src="https://streak-stats.demolab.com/?user=mahi-p02&theme=radical&hide_border=true&bg_color=20232a" height="180" alt="streak" />
-</div> &nbsp;
 
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi-p02&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi-p02&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
