@@ -2,7 +2,7 @@
 
 # 👋 Hey! It's Mahi Priyadarshi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=34&duration=3000&pause=1000&color=FF85C2&center=true&vCenter=true&width=700&lines=Cyber+Security+Aspirant;Full+Stack+Developer;Attack+to+Protect!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=34&duration=3000&pause=1000&color=FF85C2&center=true&vCenter=true&width=700&lines=Cyber+Defense;Data+Analytics;Hunt.+Detect.+Defend." alt="Typing SVG" />
 <br>
 <br>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZvMHVha294Y29pdTZnamhyeXV0a294NDB0NjRwdGkwbjU4NHl0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
@@ -12,14 +12,14 @@
 ---
 ## 🚀 About Me
 
-I’m Mahi Priyadarshi, a Cybersecurity Aspirant, Bug Bounty Hunter, and web developer. My expertise is in offensive security, exploit development, and practical hacking techniques that help organizations stay ahead of evolving cyber threats.
+I’m Mahi Priyadarshi, a Cybersecurity Practitioner, Data Analytics Enthusiast, and MERN Stack Developer. I’m passionate about analyzing logs, detecting threats, analyzing security data, and building secure, scalable applications.
 <br>
 <br>
 🎓 CSE student at CUJammu <br>
-🛡️ Ethical Hacking & Pentesting – Web, network, IoT, and wireless security. <br>
+🛡️ SOC & Blue Team – Monitoring, Detection, Investigation & Incident Response. <br>
+📊 Data Analytics – Turning data into valuable insights <br>
 💻 Web dev with web technologies and AI APIs <br>
-🌱 Practising backend development, system design, and scalable applications <br>
-⚡ I build, test, hack, fix, and ship <br>
+⚡ I build, analyze, detect, and secure <br>
 <br>
 
 ---
@@ -89,22 +89,19 @@ I’m Mahi Priyadarshi, a Cybersecurity Aspirant, Bug Bounty Hunter, and web dev
 <br/>
 
 ---
-
+<br>
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
+
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=mahi-p02&theme=radical"
-    height="180"
-    alt="GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahi-p02&theme=radical"
+    width="75%"
+    alt="GitHub Contribution Summary"
   />
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahi-p02&theme=react-dark&bg_color=20232a&hide_border=true&custom_title=Mahi's%20GitHub%20Activity" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
