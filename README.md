@@ -84,7 +84,7 @@ With hands-on experience in **labeling and quality-checking datasets, solving al
 ### 🌐 Connect with me:
 
 <div align="center">
-   <a href="mailto:mahipriyadarshi0@gmail.com" target="_blank">
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahipriyadarshi0@gmail.com&su=Hello%20Mahi">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
