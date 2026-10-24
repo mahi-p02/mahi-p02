@@ -26,6 +26,15 @@ With hands-on experience in **labeling and quality-checking datasets, solving al
 
 ---
 
+## ⚡ Coding & Community
+
+🎯 [LeetCode](https://leetcode.com/u/IceRuby_02/)  
+⚙️ [HackerRank](https://www.hackerrank.com/profile/mahipriyadarshi0)  
+🔐 [CryptoHack](https://cryptohack.org/user/Mahi_26/)  
+💼 [LinkedIn](https://www.linkedin.com/in/mahi-priyadarshi-9bb229388/)
+
+---
+
 # 💻 Tech Stack
 
 ### Data Annotation
@@ -47,13 +56,16 @@ With hands-on experience in **labeling and quality-checking datasets, solving al
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Full Stack
+### Full Stack Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 
 ### Cloud & Tools
@@ -67,8 +79,8 @@ With hands-on experience in **labeling and quality-checking datasets, solving al
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahi-p02&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-p02&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahi-p02&show_icons=true&theme=radical&include_all_commits=true" height="180" alt="Mahi's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mahi-p02&theme=radical" height="180" alt="Mahi's GitHub Streak" />
 </p>
 
 ---
